@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1> Hi there , my name is Alex👋 </h1>
+<p>I want to make the web world better and I am learning every day to reach this goal</p>
+
 <div>
 <h2>How to reach me:</h2>
 <a href="https://instagram.com/zlapkes?igshid=YmMyMTA2M2Y="><img width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
