@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href=""><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
-<a href=""><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.png"></a>
+<a href=""><img src="https://e7.pngegg.com/pngimages/842/992/png-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-thumbnail.png"></a>
 <!--
 **lu1dgy/lu1dgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
