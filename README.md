@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
 <h2>How to reach me:</h2>
-<a href=""><img width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
+<a href="https://instagram.com/zlapkes?igshid=YmMyMTA2M2Y="><img width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
 <a href="https://discordapp.com/users/298134650331725835/"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
 </div>
 
@@ -18,5 +18,5 @@
 
 <h3>My stats</h3>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lu1dgy&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact" />
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu1dgy&layout=compact" />
 </a>
