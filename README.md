@@ -15,3 +15,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22"> -->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" alt="Babel" height="22">
 </p>
+
+<h3>My stats</h3>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lu1dgy&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact" />
+</a>
