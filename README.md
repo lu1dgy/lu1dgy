@@ -2,7 +2,7 @@
 <div>
 <h2>How to reach me:</h2>
 <a href=""><img width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
-<a href=""><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+<a href="https://discordapp.com/users/298134650331725835/"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
 </div>
 
 <h3>My skills</h3>
