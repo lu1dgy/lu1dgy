@@ -1,4 +1,4 @@
-<h1> Hi there , my name is Alex👋 </h1>
+<h1> Hi there , my name is Alex!👋 </h1>
 <p>I want to make the web world better! So I study every day to reach this goal.</p>
 
 <div>
