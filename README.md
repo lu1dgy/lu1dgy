@@ -1,5 +1,5 @@
 <h1> Hi there , my name is Alex!👋 </h1>
-<p>I want to make the web world better! So I study every day to reach this goal.</p>
+<p>My goal is to make a positive impact on the web industry, and I work towards it every day.</p>
 
 <div>
 <h3>How to reach me:</h3>
