@@ -4,7 +4,7 @@
 <div>
 <h3>How to reach me:</h3>
 <a href="https://instagram.com/zlapkes?igshid=YmMyMTA2M2Y="><img width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
-<a href="https://discordapp.com/users/298134650331725835/"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+<a href="https://discordapp.com/users/298134650331725835/"><img width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"></a>
  <a href="https://www.linkedin.com/in/alex-lapkes-91ba69257/"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </div>
 
